@@ -6,10 +6,10 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 
 @SpringBootApplication
 @EnableFeignClients(basePackages = "com.jas.orderservice.client")
-public class OrderserviceApplication {
+public class OrderServiceApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(OrderserviceApplication.class, args);
+        SpringApplication.run(OrderServiceApplication.class, args);
     }
 
 }
