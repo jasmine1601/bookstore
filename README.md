@@ -150,6 +150,12 @@ docker-compose up --build
 
 ---
 
+## Contributing
+
+This repository is contribution friendly. Refer to [Contribution Guidelines](.github/contributing.md).
+
+---
+
 ## License
 This project is licensed under the GNU General Public License v3.0
 
