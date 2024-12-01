@@ -143,7 +143,7 @@ docker-compose up --build
 ---
 
 ## Future Enhancements
-- Replace H2 with a persistent database (e.g., MySQL or PostgreSQL).
+- Replace H2 with a persistent database (e.g., MySQL, PostgreSQL, or MongoDB).
 - Use RabbitMQ or Kafka for asynchronous communication.
 - Add unit and integration tests for comprehensive testing.
 - Introduce monitoring with Prometheus and Grafana.
