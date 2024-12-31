@@ -1,7 +1,7 @@
-# Book Store Project
+# Book Store Application
 
 ## Overview
-The **Book Store Project** demonstrates:
+The **Book Store Application** demonstrates:
 - REST API development
 - Microservices architecture
 - Inter-service communication using OpenFeign
